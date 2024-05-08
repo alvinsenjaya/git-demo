@@ -2,3 +2,5 @@ Git pertama tes
 Git tes mengubah
 git tes mengubah 1
 git andi mengubah file ini
+
+perubahan di branch fitur 1, menambah fitur 1
